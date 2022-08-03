@@ -17,8 +17,8 @@
 <br/>
 
 
-- 🔭 I’m currently working on [React](https://reactt/).
-- 🌱 I’m currently learning more about React js.
+- 🔭 I’m currently working on Ruby.
+- 🌱 I’m currently learning more about Ruby.
 - 👯 I’m looking to collaborate on JavaScript projects
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about Flutter or any tech-related stuff.
