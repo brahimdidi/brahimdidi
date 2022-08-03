@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=brahimdidi&label=Views&color=blue&style=plastic" alt="brahimdidi" /> </p>
 
-<a href="https://twitter.com/brahimdidi6">
+<a href="https://twitter.com/brahimdidi">
   <img align="left" alt="Brahim's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://linkedin.com/in/imthepk">
@@ -22,7 +22,7 @@
 - 👯 I’m looking to collaborate on JavaScript projects
 - 🤔 I’m looking for help with JavaScript.
 - 💬 Ask me about Flutter or any tech-related stuff.
-- 📫 How to reach me: [Twitter - @ibrahimdidi6](https://twitter.com/brahimdidi6) 
+- 📫 How to reach me: [Twitter - @ibrahimdidi](https://twitter.com/brahimdidi) 
 - 😄 Pronouns: bra/him
 - ⚡ Fun fact: "New car smell" is the scent of dozens of chemicals..
 
